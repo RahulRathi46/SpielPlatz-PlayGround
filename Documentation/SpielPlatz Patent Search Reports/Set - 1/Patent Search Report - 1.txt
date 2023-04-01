@@ -1,0 +1,100 @@
+###################################################################################################################################################################
+
+	Document : Patent Search Report - 1 (PSR)
+	Author 	 : Er. Rahul Rathi 
+	Date 	 : Aug 2017
+
+################################################################################################################################################################### 
+
+Part - 1 : PATENT SEARCH TECHNIQUE USED
+
+ 	1. Patent Search Database Used 		: 	Google Patents
+					  Website link 		: 	https://patents.google.com/
+					
+ 	2. Keywords Used for Search 		: 	RDP , VNC , HTML , VPC 
+	
+ 	3. Search String Used 				:  	virtual remote desktop over web
+	
+ 	4. Number of Results/Hits getting 	: 	9999
+	
+PART 2: BASIC DATA OF PATENTED INVENTION /BIBLIOGRAPHIC DATA
+
+	5. Category/ Field of Invention :
+	
+	6. Invention is Related to/Class of Invention : 	709/229, 718/1
+				  IPC class of the studied patent : 	G06F9/455, G06F15/16
+	
+	7. Title of Invention : Remote application presentation over a public network connection
+	
+	8. Patent No. : US 20110153853 A1
+	
+	9. Application Number : US 12/642,720
+	   Web link of the studied patent : https://www.google.co.in/patents/US20110153853A1
+		
+	10. Date of Filing/Application (DD/MM/YYYY) : 18 Dec 2009
+	
+	11. Priority Date (DD/MM/YYYY) : 18 Dec 2009
+	
+	12. Publication/Journal Number : US20110153853 A1
+	
+	13. Publication Date (DD/MM/YYYY) : 23 Jun 2011
+	
+	14. First Filled Country : 
+
+	15. Also Published as
+							Sr.No  : Country Where Filled  : Application No./Patent No.
+								1  : 	United States	   :	US8370510
+								2  :	United States 	   :	US20130125215
+	
+	16. Inventor/s Details.
+							Sr.No  : Name of Applicant/Assignee : Address/City/Country of Applicant
+								1  :	Kevin S. London			:
+								2  : 	Travis M. Howe			:
+								3  :	Ido Ben-Shachar			:
+								4  :	Ruiquing Zhu			:
+								5  :	Ersev Samim Erdogan		:
+							
+							
+	17. Applicant/Assignee Details.
+							Sr.No  : 	Name of Inventor  : Address/City/Country of Inventor
+								1  : Citrix Systems, Inc. :
+							
+	18. Applicant for Patent is :
+	
+PART 3: TECHNICAL PART OF PATENTED INVENTION
+	
+	19. Limitation of Prior Technology / Art
+
+	20. Specific Problem Solved / Objective of Invention
+								
+								Web access over a public network for applications that operate on virtual desktops on a plurality of 
+								servers is facilitated. Through the web access the user is provided with the information necessary to 
+								establish a connection with an application by way of the virtual desktop. Applications that the user is 
+								authorized to access are determined and those applications that the user is not authorized to access are
+								filtered out. The applications associated access control list is used for determining the user's access 
+								to discover an application.
+	
+	21. Brief about Invention 
+								Remote computing systems may enable users to access resources hosted by the remote computing systems.
+								Servers on the remote computing systems can execute programs and transmit signals indicative of a user 
+								interface to clients that can connect by sending signals over a network conforming to a communication 
+								protocol such as the TCP/IP protocol
+	
+	22. Key learning Points
+	
+	
+	23. Summary of Invention
+								Web access over a public network for applications that operate on virtual desktops on a plurality of 
+								servers is facilitated. Through the web access the user is provided with the information necessary to 
+								establish a connection with an application by way of the virtual desktop. Applications that the user is 
+								authorized to access are determined and those applications that the user is not authorized to access are
+								filtered out. The applications associated access control list is used for determining the user's access 
+								to discover an application.
+	
+	24. Number of Claims : 	20
+	
+	25. Patent Status : 
+	
+	26. How much this invention is related with your IDP/UDP? : 60-70%
+	
+	27. Do you have any idea to do anything around the said invention to improve it? (Give short note in not more than 500 words) 

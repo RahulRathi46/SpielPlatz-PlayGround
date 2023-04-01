@@ -1,0 +1,104 @@
+###################################################################################################################################################################
+
+	Document : Patent Search Report - 3 (PSR)
+	Author 	 : Er. Rahul Rathi 
+	Date 	 : Aug 2017
+
+################################################################################################################################################################### 
+
+Part - I : PATENT SEARCH TECHNIQUE USED
+
+ 	1. Patent Search Database Used 		: 	Google Patents
+					  Website link 		: 	https://patents.google.com/
+					
+ 	2. Keywords Used for Search 		: 	RDP , VNC , CLOUD , Paas , web , HTML , VPC 
+ 	
+ 	3. Search String Used 				: 	virtualized computing over web for virtual lab
+	
+ 	4. Number of Results/Hits getting 	:   4,099 
+	
+PART 2: BASIC DATA OF PATENTED INVENTION /BIBLIOGRAPHIC DATA
+
+	5. Category/ Field of Invention :
+	
+	6. Invention is Related to/Class of Invention : 703/13, 714/E11.207
+				  IPC class of the studied patent : G06F17/50
+	
+	7. Title of Invention : Methods and apparatus for implementing a virtualized computer system
+	
+	8. Patent No. : US 20060074618 A1
+	
+	9. Application Number : US 10/996,286
+	 Web link of the studied patent : https://www.google.co.in/patents/US20060074618A1
+		
+	10. Date of Filing/Application (DD/MM/YYYY) : 23 Nov 2004
+	
+	11. Priority Date (DD/MM/YYYY) : 1 Oct 2004
+	
+	12. Publication/Journal Number : 	US20060074618 A1
+	
+	13. Publication Date (DD/MM/YYYY) : 6 Apr 2006
+	
+	14. First Filled Country : 
+
+	15. Also Published as
+							Sr.No   : Country Where Filled  : Application No./Patent No.
+								1	:	United States		:	US20060090136
+	
+	16. Inventor/s Details.
+							Sr.No  	: Name of Inventor  : Address/City/Country of Inventor
+								1	:	Matthew Miller, :
+								2	:	Sven Hallauer, 	:
+								
+	17. Applicant/Assignee Details.
+							Sr.No  	: 		Name of Applicant/Assignee	 	: Address/City/Country of Applicant
+								1	: 	Honeywell Information Systems Inc	:
+								
+							
+	18. Applicant for Patent is :
+	
+PART 3: TECHNICAL PART OF PATENTED INVENTION
+	
+	19. Limitation of Prior Technology / Art
+
+	20. Specific Problem Solved / Objective of Invention
+										
+										In one aspect, a method of creating a virtualized computer environment that represents 
+										a real world computer environment is provided. The real world computer environment comprises
+										a plurality of components, the plurality of components comprising a plurality of computer devices
+										and at least one network device that implements a network that interconnects the plurality of computer
+										devices, the real world computer environment comprising at least one security facility that implements
+										at least one security function in the real world computer environment. The method comprises acts of including
+										in the virtualized computer environment a virtualized representation of at least one of the plurality of computer
+										devices in the real world computer environment and implementing the at least one security function in the virtualized
+										computer environment. In another aspect, a virtualized representation of the at least one network device is provided
+										. In another aspect, software is executed in the virtual computer environment. 
+	
+	21. Brief about Invention
+										The present invention relates to a virtualized computer system for developing and/or testing software. 
+	
+	22. Key learning Points
+	
+	23. Summary of Invention
+	
+										In one aspect, a method of creating a virtualized computer environment that represents 
+										a real world computer environment is provided. The real world computer environment comprises
+										a plurality of components, the plurality of components comprising a plurality of computer devices
+										and at least one network device that implements a network that interconnects the plurality of computer
+										devices, the real world computer environment comprising at least one security facility that implements
+										at least one security function in the real world computer environment. The method comprises acts of including
+										in the virtualized computer environment a virtualized representation of at least one of the plurality of computer
+										devices in the real world computer environment and implementing the at least one security function in the virtualized
+										computer environment. In another aspect, a virtualized representation of the at least one network device is provided
+										. In another aspect, software is executed in the virtual computer environment. 
+	
+	
+	24. Number of Claims : 40	
+	
+	25. Patent Status : 
+	
+	26. How much this invention is related with your IDP/UDP? : 30-40%
+	
+	27. Do you have any idea to do anything around the said invention to improve it? (Give short note in not more than 500 words) 
+	
+	

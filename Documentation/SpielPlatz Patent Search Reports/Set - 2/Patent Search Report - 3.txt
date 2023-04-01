@@ -1,0 +1,81 @@
+###################################################################################################################################################################
+
+	Document : Patent Search Report - 3 (PSR)
+	Author 	 : Er. Bhavika Patel 
+	Date 	 : Aug 2017
+
+################################################################################################################################################################### 
+
+Part - I : PATENT SEARCH TECHNIQUE USED
+
+ 	1. Patent Search Database Used 	: Google Patent	
+					  Website link 	: https://patents.google.com
+					
+ 	2. Keywords Used for Search 	: Remote Desktop
+	
+ 	3. Search String Used 	: Remote desktop using java
+	
+ 	4. Number of Results/Hits getting : 21,083
+	
+PART 2: BASIC DATA OF PATENTED INVENTION /BIBLIOGRAPHIC DATA
+
+	5. Category/ Field of Invention :The subject technology relates in general to communications and processing, and more particularly to, methods and systems for a remote desktop session utilizing a HTTP handler and a remote desktop client common interface.
+	
+	6. Invention is Related to/Class of Invention :	715/740
+				  IPC class of the studied patent : 	G06F15/16, G06F3/01
+	
+	7. Title of Invention : Methods and systems for a remote desktop session utilizing a http handler and a remote desktop client common interface
+	
+	8. Patent No. : US 20120151373 A1
+	
+	9. Application Number : US 12/965,824
+		
+	10. Date of Filing/Application (DD/MM/YYYY) : 11 Dec 2010
+	
+	11. Priority Date (DD/MM/YYYY) : 10 Dec 2010
+	
+	12. Publication/Journal Number : US20120151373 A1
+	
+	13. Publication Date (DD/MM/YYYY) : 14 Jun 2012
+	
+	14. First Filled Country : 
+
+	15. Also Published as
+							Sr.No  : Country Where Filled  : Application No./Patent No.
+	                                 Canada :	CN103403695A
+	                                 Canada :   CN103403695B 
+	                                 Canada :   CN103460670A 
+	                                 Canada :   CN103460670B
+	16. Inventor/s Details.	
+							Sr.No  : Name of Inventor  : Address/City/Country of Inventor
+							        Stevan KOMINAC
+							        Jeremy Michael Stanley
+							        Curtis Schwebke
+	17. Applicant/Assignee Details.
+							Sr.No  : Name of Applicant/Assignee : Address/City/Country of Applicant
+							        
+	18. Applicant for Patent is :	Wyse Technology Inc.
+	
+PART 3: TECHNICAL PART OF PATENTED INVENTION
+	
+	19. Limitation of Prior Technology / Art
+
+	20. Specific Problem Solved / Objective of Invention :
+	                    Traditional implementations of remote desktop protocols enable a remote user to access his or her desktop or applications from a client device over a LAN or WAN network topology to a server. The traditional approach is for a software infrastructure vendor to support a specific public or proprietary remote desktop display protocol, which is native or installed on a server. To access the server using a remote desktop protocol, a client typically needs to have a protocol-specific software application that executes on the user's specific operating system and platform or plug-in for a specific browser.
+	
+	21. Brief about Invention :
+	                       No known efforts to enable the user and customer to have a single unified method to have remote access to their home, work or mobile Windows, Mac or Linux environments.A method of facilitating a remote desktop session between a web browser of a client device and a remote machine through a transcoding server,utilizing long polling to reduce traffic to the client device, the method comprising: receiving, at the transcoding server, a plurality of drawing requests from the web browser at the client device, using HTTP, wherein HTTP is a pull protocol handling, at the transcoding server, the plurality of drawing requests as long polling requests receiving, at the transcoding server, a remote desktop drawing command from the remote machine . A remote machine, or remotely accessed machine, may include a remote desktop server. By enabling the user to use a single method to access their remote desktops with an “open standard” technology like HTML5, the requirements placed on a user's device, e.g., a smart phone, can be greatly reduced. Prior to the subject technology as described herein, because HTTP (a pull-type protocol) and most remote desktop display protocols (push-type protocols) are incompatible, it has generally been recognized by those skilled in the art that proprietary software and/or downloadable plug-ins were necessary for a web browser in order to have a remote desktop session using an HTTP on one end and a remote desktop display protocol on the other end.
+	22. Key learning Points :
+	
+	23. Summary of Invention : 
+	                       Aspects of the present disclosure may provide utilizing a transcoding server that provides one or more web browsers' access to one or more remote machines through a remote desktop client. Transcoding servers according to the present disclosure may include a module or functionality, e.g., machine-readable instructions, to receive requests from a web browser. The transcoding servers may further include a module or functionality, e.g., machine-readable instructions, to translate user input requests received (as HTTP requests) from a web browser into corresponding input calls in a protocol/language compatible with one or more remote desktop clients for accessing one or more remote machines. The transcoding servers can receive information/data from, e.g., drawing commands, from one or more remote machines via the one or more remote desktop clients and translate the information/data into a protocol/language compatible with the associated web browser(s). The transcoding servers can include storage/memory functionality for holding an image, e.g., a Java bitmap, which can be modified in response to drawing commands received from the remote desktop server. Transcoding servers may also receive from the remote desktop server and store coordinates corresponding to the respective drawing commands.
+	
+	24. Number of Claims : 25
+	
+	25. Patent Status : 
+	
+	26. How much this invention is related with your IDP/UDP? 50 %
+	
+	27. Do you have any idea to do anything around the said invention to improve it? (Give short note in not more than 500 words) 
+	
+	

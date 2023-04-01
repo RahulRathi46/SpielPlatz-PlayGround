@@ -1,0 +1,78 @@
+###################################################################################################################################################################
+
+	Document : Patent Search Report - 1 (PSR)
+	Author 	 : Er. Rahul Rathi 
+	Date 	 : Aug 2017
+
+################################################################################################################################################################### 
+
+Part - I : PATENT SEARCH TECHNIQUE USED
+
+ 	1. Patent Search Database Used 	:google 	
+					  Website link 	: https://patents.google.com	
+					
+ 	2. Keywords Used for Search 	: 
+	
+ 	3. Search String Used 	: vpn
+	
+ 	4. Number of Results/Hits getting : 
+	
+PART 2: BASIC DATA OF PATENTED INVENTION /BIBLIOGRAPHIC DATA
+
+	5. Category/ Field of Invention :Routing or path finding of packets in data switching networks
+	
+	6. Invention is Related to/Class of Invention :	370/235, 370/392
+				  IPC class of the studied patent : H04L12/28, H04L12/46,
+	
+	7. Title of Invention : Technique and apparatus for using node ID as virtual private network (VPN) identifiers
+	
+	8. Patent No. : US6693878B1
+	
+	9. Application Number : US09418469
+		
+	10. Date of Filing/Application (DD/MM/YYYY) : 1999-10-15
+	
+	11. Priority Date (DD/MM/YYYY) : 1999-10-15 
+	
+	12. Publication/Journal Number : US6693878 B1
+	
+	13. Publication Date (DD/MM/YYYY) : 2004-02-17 
+	
+	14. First Filled Country : 
+
+	15. Also Published as
+							Sr.No  : Country Where Filled  : Application No./Patent No.
+	
+	16. Inventor/s Details.
+							Sr.No  : Name of Inventor  :Feisal Y. Daruwalla, James R. Forster, Mark W. Litwack
+							Address/City/Country of Inventor
+							
+	17. Applicant/Assignee Details.
+							Sr.No  : Name of Applicant/Assignee : 	Cisco Technology, Inc.
+							Address/City/Country of Applicant
+							
+	18. Applicant for Patent is :
+	
+PART 3: TECHNICAL PART OF PATENTED INVENTION
+	
+	19. Limitation of Prior Technology / Art
+
+	20. Specific Problem Solved / Objective of Invention
+	
+	21. Brief about Invention :This invention relates to digital computer network technology. More specifically, it relates to methods and apparatus for facilitating processing and routing of packets in Virtual Private Networks (VPNs).
+
+Broadband access technologies such as cable, fiber optic, and wireless have made rapid progress in recent years. Recently there has been a convergence of voice and data networks which is due in part to US deregulation of the telecommunications industry. In order to stay competitive, companies offering broadband access technologies need to support voice, video, and other high-bandwidth applications over their local access networks. For networks that use a shared access medium to communicate between subscribers and the service provider (e.g., cable networks, wireless networks, etc.), providing reliable high-quality voice/video communication over such networks is not an easy task.
+	
+	22. Key learning Points
+	
+	23. Summary of Invention: According to specific embodiments of the present invention, a technique is provided for managing VPN packet flows over access networks such as, for example, cable networks or wireless networks in which the nodes of the network use a shared access channel to communicate with a Head End in the network. Each node in the access network typically has an identifier or ID associated with it which is used at the Head End to uniquely identify that particular node from the other nodes in the network. According to the technique of the present invention, and as explained in greater detail below, the node ID may be used at the Head End of the network to identify not only the corresponding node, but also to identify any virtual private networks (VPNs) of which the corresponding node is a member.
+	
+	24. Number of Claims : 79
+	
+	25. Patent Status : active
+	
+	26. How much this invention is related with your IDP/UDP?
+	
+	27. Do you have any idea to do anything around the said invention to improve it? (Give short note in not more than 500 words) 
+	
+	

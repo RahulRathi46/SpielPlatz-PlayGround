@@ -1,0 +1,74 @@
+###################################################################################################################################################################
+
+	Document : Patent Search Report - 3 (PSR)
+	Author 	 : Er. Rahul Rathi 
+	Date 	 : Aug 2017
+
+################################################################################################################################################################### 
+
+Part - I : PATENT SEARCH TECHNIQUE USED
+
+ 	1. Patent Search Database Used 	: 	
+					  Website link 	: 	
+					
+ 	2. Keywords Used for Search 	: 
+	
+ 	3. Search String Used 	: 
+	
+ 	4. Number of Results/Hits getting : 
+	
+PART 2: BASIC DATA OF PATENTED INVENTION /BIBLIOGRAPHIC DATA
+
+	5. Category/ Field of Invention :
+	
+	6. Invention is Related to/Class of Invention :
+				  IPC class of the studied patent : 
+	
+	7. Title of Invention : 
+	
+	8. Patent No. : 
+	
+	9. Application Number : 
+		
+	10. Date of Filing/Application (DD/MM/YYYY) : 
+	
+	11. Priority Date (DD/MM/YYYY) : 
+	
+	12. Publication/Journal Number : 
+	
+	13. Publication Date (DD/MM/YYYY) : 
+	
+	14. First Filled Country : 
+
+	15. Also Published as
+							Sr.No  : Country Where Filled  : Application No./Patent No.
+	
+	16. Inventor/s Details.
+							Sr.No  : Name of Inventor  : Address/City/Country of Inventor
+							
+	17. Applicant/Assignee Details.
+							Sr.No  : Name of Applicant/Assignee : Address/City/Country of Applicant
+							
+	18. Applicant for Patent is :
+	
+PART 3: TECHNICAL PART OF PATENTED INVENTION
+	
+	19. Limitation of Prior Technology / Art
+
+	20. Specific Problem Solved / Objective of Invention
+	
+	21. Brief about Invention
+	
+	22. Key learning Points
+	
+	23. Summary of Invention
+	
+	24. Number of Claims : 
+	
+	25. Patent Status : 
+	
+	26. How much this invention is related with your IDP/UDP?
+	
+	27. Do you have any idea to do anything around the said invention to improve it? (Give short note in not more than 500 words) 
+	
+	

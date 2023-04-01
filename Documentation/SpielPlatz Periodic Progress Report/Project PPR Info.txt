@@ -1,0 +1,16 @@
+###################################################################################################################################################################
+
+	Document : Periodic Progress Report Info (PPR-Info)
+	Author 	 : Er. Rahul Rathi 
+	Date 	 : Aug 2017
+
+################################################################################################################################################################### 
+
+				        Periodic Progress Report or PPR Document state the periodic update and status of the project.
+                        This activity is compulsory for the project development team which is submitting their project
+                        to GTU.
+                        
+                        Every PPR is submitted over 15-20 days gap after approval of a project and it provides the work
+						progress of the team. 
+                        Every PPR consists of Several Question which needs to be answered and PMMS ( Project Monitoring
+                        and Mentoring System ) keep a record.

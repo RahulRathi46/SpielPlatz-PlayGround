@@ -1,0 +1,11 @@
+################################################################################################################################
+
+Author : Er. Rahul Rathi
+Date : 2017
+
+################################################################################################################################
+
+
+This documentation are provided by the APACHE GUCAMOLE PROJECT.
+This documentation only helps you install & use APACHE GUCAMOLE PROJECT nativly.
+This documentation helps you to understand the core of SPIELPLATZ PROJECT 

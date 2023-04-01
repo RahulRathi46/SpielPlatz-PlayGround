@@ -1,0 +1,79 @@
+###################################################################################################################################################################
+
+	Document : Patent Search Report - 4 (PSR)
+	Author 	 : Er. Bhavika Patel
+	Date 	 : Aug 2017
+
+################################################################################################################################################################### 
+
+Part - I : PATENT SEARCH TECHNIQUE USED
+
+ 	1. Patent Search Database Used 	: 	Google Patent
+					  Website link 	: 	https://www.google.co.in/patent
+					
+ 	2. Keywords Used for Search 	: Database
+	
+ 	3. Search String Used 	: Internet Database
+	
+ 	4. Number of Results/Hits getting : 25,05,000
+	
+PART 2: BASIC DATA OF PATENTED INVENTION /BIBLIOGRAPHIC DATA
+
+	5. Category/ Field of Invention :The present invention relates to large-scale databases, and more particularly, to a database architecture having incremental scalability and that is adapted for use with Internet database systems.
+	
+	6. Invention is Related to/Class of Invention :	707/704, 707/E17.032, 707/966,
+				  IPC class of the studied patent : G06F17/30
+	
+	7. Title of Invention : Internet database system
+	
+	8. Patent No. : US 6523036 B1
+	
+	9. Application Number : 	US 09/629,652
+		
+	10. Date of Filing/Application (DD/MM/YYYY) : 	1 Aug 2000
+	
+	11. Priority Date (DD/MM/YYYY) : 1 Aug 2000 
+	
+	12. Publication/Journal Number : US6523036 B1
+	
+	13. Publication Date (DD/MM/YYYY) : 18 Feb 2003
+	
+	14. First Filled Country : 
+
+	15. Also Published as
+							Sr.No  : Country Where Filled  : Application No./Patent No.
+	                                USA US5555404
+	16. Inventor/s Details.
+							Sr.No  : Name of Inventor  : Address/City/Country of Inventor
+								Robert C. Hickman, Jared E. Bobbitt, Jeffrey C. Tanner,
+	17. Applicant/Assignee Details.
+							Sr.No  : Name of Applicant/Assignee : Address/City/Country of Applicant
+							        Dantz Development Corporation
+	18. Applicant for Patent is : 
+	
+PART 3: TECHNICAL PART OF PATENTED INVENTION
+	
+	19. Limitation of Prior Technology / Art : adding a third server cluster comprising at least two computer servers;
+migrating portion(s) of table data stored on the first and/or second server clusters to the third server cluster while enabling database transactions on other portions of table data remaining on the first and second server clusters; and
+enabling database transactions across all of the first, second and third server clusters after the portions of table data have been migrated to the third server cluster. 
+
+	20. Specific Problem Solved / Objective of Invention :Data in the database(s) are evenly distributed across the server clusters in fragmented mutually exclusive subsets of data based on a hashing function. An application program interface is provided so as to enable application programs to perform a full range of database transactions without regard for where data is stored, or what database(s) is operating in the database server layer.
+	
+	21. Brief about Invention : The architecture provides for incremental scaling of a database server system, whereby read transaction throughput can be increased by adding additional servers to one or more server clusters, and write and read transaction throughput can be increased by adding one or more additional server clusters. Each server cluster stores a percentage of all data being stored (approximately defined by 1/number of server clusters), wherein a duplicate copy of the partition of data is stored on each of the computer servers in the cluster. The partitions of data include both object records and database schema data, including database tables and associated indices and stored procedures. Record objects are distributed across the server clusters based on fragments they are assigned to. Preferably, the record objects are assigned to fragments based on a hashing function. As discussed above, data corresponding to the configuration of the database server layer is maintained such that the system is knowledgeable about where the data is stored, and read and write transaction load balancing is provided.This comprises adding one or more new servers, creating applicable database resources on the new servers (i.e., database tables, associated indices, stored procedures, etc.), and migrating a portion of the data stored on one or more of the other server clusters to the new server cluster. During data migration, record objects are shipped to the new cluster using either on an individual fragment or a range of fragments basis, such that database transactions can continue to occur while the migration is taking place.
+	
+	22. Key learning Points : Internet database
+	
+	23. Summary of Invention : This architecture allows for incremental scalability, load balancing, and reliability despite hardware or software failures. The system architecture enables database capacity to be scaled by adding resources, such as additional servers, without requiring that the system be taken offline. Such scaling includes both adding one or more computer servers to a given server cluster, which enables an increase in database read transaction throughput, and adding one or more server clusters to the system configuration, which provides for increased read and write transaction throughput.
+	
+	24. Number of Claims : 50
+	
+	25. Patent Status : Grant
+	
+	26. How much this invention is related with your IDP/UDP? 60-70%
+	
+	27. Do you have any idea to do anything around the said invention to improve it? (Give short note in not more than 500 words) 
+	further comprising providing read transaction load balancing across each of the first and second server clusters such that read transactions corresponding to table data stored on a given server cluster are evenly distributed among the computer servers in that server cluster. Adding a new computer server to one of the server clusters, said new computer server having installed thereon an instance of the database server application;
+copying metadata and table data from at least one other computer server in the server cluster to which the new computer server is added so as to replicate the data from the other computer servers in the server cluster while enabling database transactions on the server cluster; and
+distributing future database transactions across all computer servers, including the new computer server, in the server cluster to which the new computer server is added. 
+	
+	

@@ -1,0 +1,97 @@
+/* 
+ * Copyright 2017 Er. Rahul Rathi.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+/**
+ * Author:  "Er. Rahul Rathi [ VanGiex.RR@Gmail.Com ]
+ * Created: Jul 14, 2017
+ */
+
+
+
+/*
+ *  USER TABLE TO STORE LOGIN & REGISTER NEW USER.
+ */
+
+CREATE TABLE IF NOT EXISTS CLIENT
+( 
+    USER_ID INT ( 10 ) NOT NULL AUTO_INCREMENT, 
+    U_NAME VARCHAR ( 255 ) NOT NULL,
+    EMAIL VARCHAR ( 255 ) NOT NULL,
+    PASSWORD VARCHAR ( 255 ) NOT NULL,
+    ACCESS_LEVEL INT ( 10 ) NOT NULL,
+    RECOVERY_QUESTION VARCHAR ( 255 ) NOT NULL,
+    RECOVERY_ANSWER VARCHAR ( 255 ) NOT NULL,
+    ADHAAR_NO INT ( 15 ) NOT NULL,
+    UNIQUE (U_NAME,EMAIL,ADHAAR_NO),
+    PRIMARY KEY (USER_ID)
+);
+
+
+/*
+ *  VM_CONFIG TABLE TO STORE VM CONFIGURATION AND TOPOLOGY INTO GROUPS [ WORKSPACE ].
+ */
+
+CREATE TABLE IF NOT EXISTS VM_CONFIG
+(
+    VM_ID INT ( 10 ) NOT NULL AUTO_INCREMENT,
+    OS VARCHAR ( 255 ) NOT NULL,
+    USERNAME VARCHAR ( 255 ) NOT NULL,
+    PASSWORD VARCHAR ( 255 ) NOT NULL,
+    IP_ADDRESS VARCHAR ( 255 ) NOT NULL,
+    PORT INT ( 6 ) NOT NULL,
+    TOPOLOGY_GROUP VARCHAR ( 255 ),
+    TOPOLOGY_CREATOR VARCHAR ( 255 ) NOT NULL,
+    UNIQUE (IP_ADDRESS),
+    PRIMARY KEY (VM_ID)
+);
+
+
+/*
+ * TRANSACTION_ID IS RANDOM ID
+ * ACTIVE_RESOURCE TABLE TO STORE ACTIVE_RESOURCE TEMPORIELY.
+ */
+
+CREATE TABLE IF NOT EXISTS ACTIVE_RESOURCE
+(
+    TRANSACTION_ID INT ( 10 ) NOT NULL,
+    VM_ID INT ( 10 ) NOT NULL,
+    USER_ID INT ( 10 ) NOT NULL,
+    OS VARCHAR ( 255 ) NOT NULL,
+    TOPOLOGY_GROUP VARCHAR ( 255 ),
+    PRIMARY KEY (TRANSACTION_ID),
+    FOREIGN KEY(VM_ID) REFERENCES VM_CONFIG (VM_ID), 
+    FOREIGN KEY(USER_ID) REFERENCES CLIENT(USER_ID)
+);
+
+
+
+/*
+ * TRANSACTION_ID IS RANDOM ID 
+ * HISTORY TABLE TO STORE USER HISTORY. 
+ */
+
+CREATE TABLE IF NOT EXISTS HISTORY 
+(
+    HISTORY_ID INT ( 10 ) NOT NULL AUTO_INCREMENT,
+    TRANSACTION_ID INT ( 10 ) NOT NULL,
+    VM_ID INT ( 10 ) NOT NULL,
+    USER_ID INT ( 10 ) NOT NULL,
+    DATE_TIME VARCHAR ( 255 ) NOT NULL,
+    OS VARCHAR ( 255 ) NOT NULL,
+    PRIMARY KEY (HISTORY_ID),
+    FOREIGN KEY(VM_ID) REFERENCES VM_CONFIG (VM_ID), 
+    FOREIGN KEY(USER_ID) REFERENCES CLIENT(USER_ID)
+);

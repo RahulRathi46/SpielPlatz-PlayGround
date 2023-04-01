@@ -1,0 +1,32 @@
+###################################################################################################################################################################
+
+	Document : Periodic Progress Report - 2 (PPR)
+	Author 	 : Er. Rahul Rathi 
+	Date 	 : Feb 2018
+
+################################################################################################################################################################### 
+
+1. What Progress you have made in the Project ? 
+A. Progress of the project is pretty good by this date, We have done all gtu formalities regarding project & the initial research for the project logic
+   we have solved with the following :
+	   1. A practical & Theroitcall aspect of this domain.
+	   
+
+2. What challenge you have faced ?
+A. This project currently and also faced some of the major challeanges which include following :
+	   1. Information & Technolgies Law's. [Solved]
+	   2. Commnucation Protocols & there understanding. [In Progress]
+	   3. Programming aspect. [Started]
+ 
+3. What support you need ?  
+A. We require the following support on :
+	   1. Knowledge & Guidance on VPC ( Virtual Private Cloud ). [Completed]
+	   2. Protocols like TCP, UDP, VPN, RDP & VNC etc understanding. [In Progress]
+	   3. Programming aspect. [Started]
+
+4. Which literature you have referred ? 
+A. Literature referred are :
+		   1. Microsoft Azure Developers Guide. [Done]
+		   2. AWS Developers Guide. [Done]
+		   3. Java Advanced Programming Guide.
+		   4. Research Papers and implementation documents of above mention protocols.

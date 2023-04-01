@@ -1,0 +1,112 @@
+#################################################################################################################################################################
+
+	Document : Patent Search Report - 5 (PSR)
+	Author 	 : Er. Rahul Rathi 
+	Date 	 : Aug 2017
+
+################################################################################################################################################################# 
+
+Part - 1 : PATENT SEARCH TECHNIQUE USED
+
+ 	1. Patent Search Database Used 		: 	Google Patents
+					  Website link 		: 	https://patents.google.com/
+					
+ 	2. Keywords Used for Search 		: 	RDP , VNC , CLOUD 
+	
+ 	3. Search String Used 				:   virtual lab over internet
+	
+ 	4. Number of Results/Hits getting 	:   3,354
+	
+PART 2: BASIC DATA OF PATENTED INVENTION /BIBLIOGRAPHIC DATA
+
+	5. Category/ Field of Invention :
+	
+	6. Invention is Related to/Class of Invention : 
+				  IPC class of the studied patent : G09B19/00
+	
+	7. Title of Invention : Experimental cloud platform system for serving computer-and-software-based education in schools of higher education
+	
+	8. Patent No. : CN 102063818 A
+	
+	9. Application Number : 	CN 201010252027
+	 Web link of the studied patent : https://www.google.co.in/patents/CN102063818A
+		
+	10. Date of Filing/Application (DD/MM/YYYY) : 	12 Aug 2010
+	
+	11. Priority Date (DD/MM/YYYY) : 	12 Aug 2010
+	
+	12. Publication/Journal Number : CN102063818 A
+	
+	13. Publication Date (DD/MM/YYYY) : 18 May 2011
+	
+	14. First Filled Country : 
+
+	15. Also Published as
+							Sr.No  	: Country Where Filled  : Application No./Patent No.
+								1	:	China				:	CN102063818B
+	
+	16. Inventor/s Details.
+							Sr.No  	: Name of Inventor  : Address/City/Country of Inventor
+								1	: Liu Juefu			: China
+								2	: Zhou Juan			: China
+								3	: Chaiyahui			: China
+							
+	17. Applicant/Assignee Details.
+							Sr.No  	: 				Name of Applicant/Assignee 			: Address/City/Country of Applicant
+								1	:  Xiamen Dingshuo Information Technology Co., Ltd	: China
+							
+	18. Applicant for Patent is :
+	
+PART 3: TECHNICAL PART OF PATENTED INVENTION
+	
+	19. Limitation of Prior Technology / Art
+
+	20. Specific Problem Solved / Objective of Invention
+	
+									The invention relates to an experimental cloud platform system for serving computer-and-software-based 
+									education in schools of higher education. Based on the computation virtualization technology, the experimental 
+									cloud platform system uses a plurality of physical host computers to structure virtual computer trunking experiment
+									platforms through the internet and integrates virtual computer trunking system experiment platforms scattered all
+									over the school into an experimental cloud platform system; the experimental cloud platform system is equipped with 
+									various operating systems for experiments related to computers and softwares and experiment-related softwares and tools 
+									as well as a experiment cloud platform data center to store experimental data and experimental results and a terminal for
+									users to telnet the experiment cloud platform. With the experiment cloud platform structured, a plurality of people can 
+									share the experiment system resources on a computer, thus improving use rate of computer system resources, facilitating
+									management on experiment system resources and reducing capitalized cost on computer equipment. The invention is suitable
+									for share management on computer computation and software resources in schools of higher education.
+	
+	21. Brief about Invention
+	
+									in each university laboratory or experimental center has a computer room and associated computer and software, many of the 
+									machines and test computer software programs and other professional experimental course there is a clear difference, namely 
+									: on-board computer and software and experimental courses, the laboratory equipment needed for the computer host + OS + 
+									related systems software, and other professional (such as machinery) experimental curriculum to include other hardware
+									laboratory equipment. Therefore, these experiments must go to the lab courses, to the associated mechanical equipment to
+									do the experiment.
+	
+	22. Key learning Points
+	
+	23. Summary of Invention
+	
+									The invention relates to an experimental cloud platform system for serving computer-and-software-based 
+									education in schools of higher education. Based on the computation virtualization technology, the experimental 
+									cloud platform system uses a plurality of physical host computers to structure virtual computer trunking experiment
+									platforms through the internet and integrates virtual computer trunking system experiment platforms scattered all
+									over the school into an experimental cloud platform system; the experimental cloud platform system is equipped with 
+									various operating systems for experiments related to computers and softwares and experiment-related softwares and tools 
+									as well as a experiment cloud platform data center to store experimental data and experimental results and a terminal for
+									users to telnet the experiment cloud platform. With the experiment cloud platform structured, a plurality of people can 
+									share the experiment system resources on a computer, thus improving use rate of computer system resources, facilitating
+									management on experiment system resources and reducing capitalized cost on computer equipment. The invention is suitable
+									for share management on computer computation and software resources in schools of higher education.
+	
+	
+	24. Number of Claims : 5
+	
+	25. Patent Status : 
+	
+	26. How much this invention is related with your IDP/UDP? 40-60%
+	
+	27. Do you have any idea to do anything around the said invention to improve it? (Give short note in not more than 500 words) 
+	
+	

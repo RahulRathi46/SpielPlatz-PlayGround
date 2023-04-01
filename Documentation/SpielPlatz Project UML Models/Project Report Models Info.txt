@@ -1,0 +1,17 @@
+###################################################################################################################################################################
+
+	Document : Patent Search Report Info (PSR-Info)
+	Author 	 : Er. Rahul Rathi 
+	Date 	 : Aug 2017
+
+################################################################################################################################################################### 
+						
+						Patent Search Report or PSR Document state the current patents and status of the project W.R.T
+                        current innovations.
+                        This activity is compulsory for the each project development team member individually which are 
+                        submitting their project to GTU.
+                        
+                        Every PSR is submitted any time after approval of project mentors and it provides the work progress 
+						of the team. 
+                        Every PSR consist of Several Question which needs to be answered and PMMS ( Project Monitoring
+                        and Mentoring System ) keep a record.

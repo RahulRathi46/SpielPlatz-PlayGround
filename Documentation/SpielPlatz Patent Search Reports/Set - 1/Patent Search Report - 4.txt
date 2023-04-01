@@ -1,0 +1,99 @@
+###################################################################################################################################################################
+
+	Document : Patent Search Report - 4 (PSR)
+	Author 	 : Er. Rahul Rathi 
+	Date 	 : Aug 2017
+
+################################################################################################################################################################### 
+
+Part - I : PATENT SEARCH TECHNIQUE USED
+
+ 	1. Patent Search Database Used 		: 	Google Patents
+					  Website link 		: 	https://patents.google.com/
+					
+ 	2. Keywords Used for Search 		: 	RDP , VNC , CLOUD , Paas , Saas
+	
+ 	3. Search String Used 				: 	virtual lab over html
+	
+ 	4. Number of Results/Hits getting 	: 	7,400
+	
+PART 2: BASIC DATA OF PATENTED INVENTION /BIBLIOGRAPHIC DATA
+
+	5. Category/ Field of Invention :
+	
+	6. Invention is Related to/Class of Invention :		434/350, 434/362
+				  IPC class of the studied patent : 	G09B5/00, G09B7/00, H04L29/06
+	
+	7. Title of Invention : Method and system for providing a virtual computer classroom
+	
+	8. Patent No. : US 20040002048 A1
+	
+	9. Application Number : 	US 10/188,381
+	 Web link of the studied patent : https://www.google.co.in/patents/US20040002048A1
+		
+	10. Date of Filing/Application (DD/MM/YYYY) : 1 Jul 2002
+	
+	11. Priority Date (DD/MM/YYYY) : 1 Jul 2002
+	
+	12. Publication/Journal Number : 	US20040002048 A1
+	
+	13. Publication Date (DD/MM/YYYY) : 	1 Jan 2004
+	
+	14. First Filled Country : 
+
+	15. Also Published as
+							Sr.No  : Country Where Filled  : Application No./Patent No.
+							
+	
+	16. Inventor/s Details.
+							Sr.No  	: Name of Inventor  : Address/City/Country of Inventor
+								1	: Matthew Thurmaier	:
+								2	: David Lash		:
+							
+	17. Applicant/Assignee Details.
+							Sr.No  	: Name of Applicant/Assignee  	: Address/City/Country of Applicant
+								1	: Discourse Technologies, Inc. 	:
+							
+	18. Applicant for Patent is :
+	
+PART 3: TECHNICAL PART OF PATENTED INVENTION
+	
+	19. Limitation of Prior Technology / Art
+
+	20. Specific Problem Solved / Objective of Invention
+	
+									A virtual computer classroom that allows an instructor to present a lesson to at least one student over a network.
+									The network allows the instructor and the student to be in different locations. The classroom broadly comprises a
+									target device some aspect of which is the subject of the lesson, a remote access device (RAD) for remotely interacting 
+									with the target device, a view server (18) for connecting the RAD to the network, and a presentation server for allowing
+									the instructor to present the lesson to the student over the network. The classroom  may also include a remote power 
+									controller (RPC) for cycling power to the target device. The student and the instructor preferably access the classroom
+									using a JAVA enabled browser.
+. 
+	
+	21. Brief about Invention
+			
+									The current invention relates to virtual classrooms. More particularly, the current invention relates to a virtual
+									computer classroom that allows an instructor to present a lesson to at least one student over a network. 
+	
+	22. Key learning Points
+	
+	23. Summary of Invention
+	
+									A virtual computer classroom that allows an instructor to present a lesson to at least one student over a network.
+									The network allows the instructor and the student to be in different locations. The classroom broadly comprises a
+									target device some aspect of which is the subject of the lesson, a remote access device (RAD) for remotely interacting 
+									with the target device, a view server (18) for connecting the RAD to the network, and a presentation server for allowing
+									the instructor to present the lesson to the student over the network. The classroom  may also include a remote power 
+									controller (RPC) for cycling power to the target device. The student and the instructor preferably access the classroom
+									using a JAVA enabled browser.
+	
+	24. Number of Claims : 46
+	
+	25. Patent Status : 
+	
+	26. How much this invention is related with your IDP/UDP? : 20-30%
+	
+	27. Do you have any idea to do anything around the said invention to improve it? (Give short note in not more than 500 words) 
+	
+	

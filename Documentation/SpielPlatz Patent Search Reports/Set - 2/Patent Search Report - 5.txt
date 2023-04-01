@@ -1,0 +1,75 @@
+###################################################################################################################################################################
+
+	Document : Patent Search Report - 5 (PSR)
+	Author 	 : Er. Bhavika Patel
+	Date 	 : Aug 2017
+
+################################################################################################################################################################### 
+
+Part - I : PATENT SEARCH TECHNIQUE USED
+
+ 	1. Patent Search Database Used 	: Google Patents	
+					  Website link 	: https://www.google.co.in/patents	
+					
+ 	2. Keywords Used for Search 	: Cluster Topology
+	
+ 	3. Search String Used 	: Machine Cluster topology
+	
+ 	4. Number of Results/Hits getting : 62,700
+	
+PART 2: BASIC DATA OF PATENTED INVENTION /BIBLIOGRAPHIC DATA
+
+	5. Category/ Field of Invention : Machine cluster
+	
+	6. Invention is Related to/Class of Invention :	712/216, 714/E11.207
+				  IPC class of the studied patent : 	G06F9/40
+	
+	7. Title of Invention : Machine cluster topology representation for automated testing
+	
+	8. Patent No. : US 20080244233 A1
+	
+	9. Application Number : 	US 11/691,344
+		
+	10. Date of Filing/Application (DD/MM/YYYY) : 	26 Mar 2007
+	
+	11. Priority Date (DD/MM/YYYY) : 	26 Mar 2007
+	
+	12. Publication/Journal Number : 	US20080244233 A1
+	
+	13. Publication Date (DD/MM/YYYY) : 	2 Oct 2008
+	
+	14. First Filled Country : 
+
+	15. Also Published as
+							Sr.No  : Country Where Filled  : Application No./Patent No.
+	                                USA 	US7827273
+	16. Inventor/s Details.
+							Sr.No  : Name of Inventor  : Address/City/Country of Inventor
+							        	Jared Wilson, Charles McClintock, Peter Gerber
+	17. Applicant/Assignee Details.
+							Sr.No  : Name of Applicant/Assignee : Address/City/Country of Applicant
+							        	Microsoft Corporation
+	18. Applicant for Patent is :  
+	
+PART 3: TECHNICAL PART OF PATENTED INVENTION
+	
+	19. Limitation of Prior Technology / Art : Various embodiments may take the form of an entirely hardware embodiment, an entirely software embodiment or an embodiment combining software and hardware aspects.
+
+	20. Specific Problem Solved / Objective of Invention :It is directed to testing server products in more complex multi-machine installations (known as machine clusters) of server products. A server product can be tested on a server machine type.
+	
+	21. Brief about Invention : The representation of machine clusters is stored so that the tester can know which configurations have been tested. The machine clusters typically comprise a primary machine and one or more secondary machines. As a machine cluster is configured, each machine in the machine cluster is normally assigned a value so that the collection of roles installed on that machine can be uniquely identified.Atomicity of machine clusters extends from the primary/secondary structure of the machine cluster. Any action that takes place against the primary machine is normally automatically extended to perform all necessary actions across the entire machine cluster.Scripts for performing the actions can be dynamically extended. Whenever a test script is assigned to execute against a primary machine, the test script can be instantiated multiple times and executed in parallel against all of the machines in the cluster. The separate results are processed, and a final aggregate result can be produced, which allows the test execution to behave indistinguishably regardless of the actual number of machines involved in a machine cluster.The concept of machine clusters applies to various stages throughout the testing process: the automatic selection of machines by the system, the configuring of the selected machines, the execution of tests against the machines, and the processing and recording of the results. In configurations where machine clusters are not desired, many other areas of code do not need to be changed (including the selection of tests) to allow the test to also run against a non-machine cluster implementation. This means that the same tests can be executed in a non-machine cluster configuration as well as executed against a machine cluster
+
+	
+	22. Key learning Points : Topology
+	
+	23. Summary of Invention :Automatic machine cluster allocation allows a test written for a specific role to be tested against any cluster of machines that fulfill the specific role. In response to the request for a configuration, the system is able to determine the number of machines required, select from the available machines, and perform the necessary actions to configure all of the cluster machines for performing the role required by the server product to be tested.
+	
+	24. Number of Claims : 20
+	
+	25. Patent Status : Application
+	
+	26. How much this invention is related with your IDP/UDP? 50 %
+	
+	27. Do you have any idea to do anything around the said invention to improve it? (Give short note in not more than 500 words) 
+	    After the point in both the clustered or non-clustered case, all machines involved in the execution typically have their status returned to availability and a new dispatch attempt can be triggered. The dispatch and execution process can be then repeated until all scenarios have completed, and a final results mail can be generated and sent back to the user to display the final statistics of the job.
+	

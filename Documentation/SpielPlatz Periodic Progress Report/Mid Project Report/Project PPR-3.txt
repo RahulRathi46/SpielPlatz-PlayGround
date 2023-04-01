@@ -1,0 +1,51 @@
+###################################################################################################################################################################
+
+	Document : Periodic Progress Report - 3 (PPR)
+	Author 	 : Er. Rahul Rathi 
+	Date 	 : Sept 2017
+
+################################################################################################################################################################### 
+
+1. What Progress you have made in the Project ? 
+A. Progress of the project is pretty good by this date, We have done all gtu formalities regarding project & the initial research for the project logic
+    we have solved :
+	   1. cost , availability.
+	   2. Reviewed : vnc protocol.
+	   3. practical & Theroitcall aspect of this domain.
+	   
+	we have unsolved :
+	   1. What are problems which need to be solved: resources & other factors.
+	   2. How to start implementation: current technology reviews.
+	   
+
+
+2. What challenge you have faced ?
+A. This project currently and also faced some of the major challeanges which include following :
+	   1. Information & Technolgies Law's.
+	   2. Commnucation Protocols & there understanding.
+	   3. Programming aspect.
+ 
+3. What support you need ?  
+A. We require the following 
+		support on :
+		   1. Knowledge & Guidance on VPC ( Virtual Private Cloud ).
+		   2. Protocols like TCP, UDP, VPN, RDP & VNC etc understanding.
+		   3. Programming aspect.
+	   
+		got support on :
+		   2. Protocols  TCP , udp , vnc understanding.
+		   3. Some programming aspect.
+	   
+
+4. Which literature you have referred ? 
+A. Literature referred are :
+		
+		Done Reffering : 
+		
+		   1. Microsoft Azure Developers Guide.
+		   2. Java Advanced Programming Guide.
+		   
+		Left Reffering :
+		
+		   3. AWS Developers Guide.
+		   4. Research Papers and implementation documents of above mention protocols.

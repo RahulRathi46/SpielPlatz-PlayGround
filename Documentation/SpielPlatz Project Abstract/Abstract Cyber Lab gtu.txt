@@ -1,0 +1,50 @@
+﻿###################################################################################################################################################################
+
+
+Abstract For The Web Basced Cyber Lab
+Writen By : Er Rahul Rathi
+Date : 2017
+
+###################################################################################################################################################################
+
+
+Problem :
+
+The virtual envirment for practicing cyber security is indeed not only to the cyber security experts it will also be use full for the students , proffectional &
+the instutuion which prapering the next worriers . The virtual cyber lab includes the cretation of labs , sharinng of  expensive hardware and tools . This lab not 
+only focus on practical hands on practice but also on theriotcal concepts and diccession  This lab is basced on cloud arch and avalibale over internet using just a
+web browser.This lab also provide the GUI & SSH connectivity over web and the lab is complatiable with any device which has a HTML% supported web browser and a 
+internet connection. There are available test bed’s offered by various vendors like Cloudshare , Breaking Point by IXIA (Cyber Range), Cybergym by an Israeli company
+which offers the labs .We have vision of a virtual lab in which attacking team / induval who carries a cyber attack and the infrastructure for the attacks but the 
+controcl is maintain by training expret or the individale who is practicing.There is one more concert that the security of the cyber attack or practice shoud be 
+walled inside the cloud practic envirment.
+
+Methods :
+
+We are using existing concepts of Computer Network , Network & server Virtuallition & Web ( Httmp / Https ) to devlope our solution . Our solution constructed using
+Java & Vmware . 
+
+benifit : 
+
+1. A secure space to practice cyber attackes
+2. A virtual Paletform to learn , share and community
+3. Scalable , trackable and all tools at one place
+4. Afforadable price and hands on equivments 
+5. Accessabe from any where and on any plateform
+6. The impact of the cyber attack and practice will be walled under the cloud infersturcture & simulation.
+7. Law can be mantian and the practice is ethcial.
+
+cost :
+
+The cost directly depends on the topology you want to practice . For a exapmle we have a topology very basce one and the cost calcuated as
+
+1 vm for Kali (Attacker Pc) { 4Gb ram , I3 2GHZ } =
+2 vm for { windows & Linux victim ) { 2Gb ram , I3 2GHZ , Windows Licence } =
+Delivery Infarastructure cost = 
+Tottal = 
+
+
+
+
+
+

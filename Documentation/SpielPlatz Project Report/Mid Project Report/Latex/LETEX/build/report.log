@@ -1,0 +1,503 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.23)  28 SEP 2017 14:35
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\txfonts.sty"
+Package: txfonts 2008/01/22 v3.2.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
+\symitalic=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
+\symlettersA=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
+\symAMSa=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
+LaTeX Info: Redefining \not on input line 1043.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count89
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+(C:\Users\bhavi\Desktop\LETEX\build\report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 16.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 16.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\omltxmi.fd"
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 16.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 16.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\omstxsy.fd"
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 16.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 16.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\omxtxex.fd"
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 16.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 16.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\utxexa.fd"
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 16.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\ot1txr.fd"
+File: ot1txr.fd 2000/12/15 v3.1
+)
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count90
+\scratchdimen=\dimen105
+\scratchbox=\box28
+\nofMPsegments=\count91
+\nofMParguments=\count92
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count93
+\MPscratchDim=\dimen106
+\MPnumerator=\count94
+\makeMPintoPDFobject=\count95
+\everyMPtoPDFconversion=\toks18
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+<bmcet.png, id=1, 210.7875pt x 239.89626pt>
+File: bmcet.png Graphic file (type png)
+ <use bmcet.png>
+Package pdftex.def Info: bmcet.png used on input line 49.
+(pdftex.def)             Requested size: 178.86702pt x 203.57234pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./bmcet.png>] [2] [3] [1]
+
+(C:\Users\bhavi\Desktop\LETEX\build\report.toc
+LaTeX Font Info:    Try loading font information for U+txmia on input line 3.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\utxmia.fd"
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsya on input line 3.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\utxsya.fd"
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 3.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\utxsyb.fd"
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 3.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\utxsyc.fd"
+File: utxsyc.fd 2000/12/15 v3.1
+) [1
+
+])
+\tf@toc=\write3
+\openout3 = `report.toc'.
+
+ [2]
+(C:\Users\bhavi\Desktop\LETEX\build\report.lof)
+\tf@lof=\write4
+\openout4 = `report.lof'.
+
+ [3
+
+]
+Chapter 1.
+[4
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+[]\OT1/txr/m/n/12 Understanding of De-liv-ery
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 197--198
+[]\OT1/txr/m/n/12 Code Ini-tial-iza-tion & Code
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
+
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 199--200
+[]\OT1/txr/m/n/12 Submitted PPR and PSAR
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 199--200
+\OT1/txr/m/n/12 re-port and ver-ify the doc-u-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
+[]\OT1/txr/m/n/12 October-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
+
+ []
+
+
+Overfull \hbox (43.05255pt too wide) in paragraph at lines 188--211
+  [] 
+ []
+
+[5] [6]
+Overfull \hbox (16.59879pt too wide) in paragraph at lines 228--241
+  [] 
+ []
+
+
+Overfull \hbox (14.31879pt too wide) in paragraph at lines 255--262
+ [][] 
+ []
+
+[7]
+Chapter 2.
+<aeiou.jpg, id=45, 4047.12pt x 3035.34pt>
+File: aeiou.jpg Graphic file (type jpg)
+ <use aeiou.jpg>
+Package pdftex.def Info: aeiou.jpg used on input line 268.
+(pdftex.def)             Requested size: 397.48499pt x 298.08655pt.
+ [8
+
+ <./aeiou.jpg>]
+LaTeX Font Info:    Try loading font information for OMS+txr on input line 275.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\omstxr.fd"
+File: omstxr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <12> not available
+(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 275.
+ [9]
+<empathy.jpg, id=54, 4047.12pt x 3035.34pt>
+File: empathy.jpg Graphic file (type jpg)
+ <use empathy.jpg>
+Package pdftex.def Info: empathy.jpg used on input line 318.
+(pdftex.def)             Requested size: 397.48499pt x 298.08655pt.
+ [10 <./empathy.jpg>] [11] <idea.jpg, id=61, 4047.12pt x 3035.34pt>
+File: idea.jpg Graphic file (type jpg)
+ <use idea.jpg>
+Package pdftex.def Info: idea.jpg used on input line 353.
+(pdftex.def)             Requested size: 397.48499pt x 298.08655pt.
+ [12 <./idea.jpg>] [13] <pd.jpg, id=68, 4047.12pt x 3035.34pt>
+File: pd.jpg Graphic file (type jpg)
+ <use pd.jpg>
+Package pdftex.def Info: pd.jpg used on input line 403.
+(pdftex.def)             Requested size: 397.48499pt x 298.08655pt.
+ [14 <./pd.jpg>]
+[15]
+Chapter 3.
+<Class.jpg, id=76, 597.432pt x 845.0772pt>
+File: Class.jpg Graphic file (type jpg)
+ <use Class.jpg>
+Package pdftex.def Info: Class.jpg used on input line 439.
+(pdftex.def)             Requested size: 450.6254pt x 637.41861pt.
+
+Overfull \hbox (53.14041pt too wide) in paragraph at lines 439--440
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 11.48862pt on input line 442.
+
+<seq2.jpg, id=77, 597.432pt x 845.0772pt>
+File: seq2.jpg Graphic file (type jpg)
+ <use seq2.jpg>
+Package pdftex.def Info: seq2.jpg used on input line 447.
+(pdftex.def)             Requested size: 422.77551pt x 598.0361pt.
+
+Overfull \hbox (25.29053pt too wide) in paragraph at lines 446--448
+ [][] 
+ []
+
+<seq1.jpg, id=78, 597.432pt x 845.0772pt>
+File: seq1.jpg Graphic file (type jpg)
+ <use seq1.jpg>
+Package pdftex.def Info: seq1.jpg used on input line 452.
+(pdftex.def)             Requested size: 413.84207pt x 585.38301pt.
+
+Overfull \hbox (16.35709pt too wide) in paragraph at lines 451--453
+ [][] 
+ []
+
+<activity1.jpg, id=79, 845.0772pt x 597.432pt>
+File: activity1.jpg Graphic file (type jpg)
+ <use activity1.jpg>
+Package pdftex.def Info: activity1.jpg used on input line 462.
+(pdftex.def)             Requested size: 516.73169pt x 365.30814pt.
+
+Overfull \hbox (119.2467pt too wide) in paragraph at lines 461--463
+ [][] 
+ []
+
+<activity2.jpg, id=80, 845.0772pt x 597.432pt>
+File: activity2.jpg Graphic file (type jpg)
+ <use activity2.jpg>
+Package pdftex.def Info: activity2.jpg used on input line 468.
+(pdftex.def)             Requested size: 596.22748pt x 421.50868pt.
+
+Overfull \hbox (198.7425pt too wide) in paragraph at lines 467--469
+ [][] 
+ []
+
+[16
+
+] [17 <./Class.jpg>] [18 <./seq2.jpg>] [19 <./seq1.jpg>] [20 <./activity1.jpg>]
+ [21 <./activity2.jpg>] <use1.jpg, id=100, 845.0772pt x 597.432pt>
+File: use1.jpg Graphic file (type jpg)
+
+<use use1.jpg>
+Package pdftex.def Info: use1.jpg used on input line 475.
+(pdftex.def)             Requested size: 596.22748pt x 421.50868pt.
+
+Overfull \hbox (198.7425pt too wide) in paragraph at lines 475--476
+ [][] 
+ []
+
+<use2.jpg, id=101, 845.0772pt x 597.432pt>
+File: use2.jpg Graphic file (type jpg)
+ <use use2.jpg>
+Package pdftex.def Info: use2.jpg used on input line 480.
+(pdftex.def)             Requested size: 596.22748pt x 421.50868pt.
+
+Overfull \hbox (198.7425pt too wide) in paragraph at lines 479--481
+ [][] 
+ []
+
+[22 <./use1.jpg>] [23 <./use2.jpg>] <vm.jpg, id=108, 356.33125pt x 142.5325pt>
+File: vm.jpg Graphic file (type jpg)
+
+<use vm.jpg>
+Package pdftex.def Info: vm.jpg used on input line 492.
+(pdftex.def)             Requested size: 272.27623pt x 108.91519pt.
+ <v1.jpg, id=109, 688.0104pt x 457.71pt>
+File: v1.jpg Graphic file (type jpg)
+ <use v1.jpg>
+Package pdftex.def Info: v1.jpg used on input line 497.
+(pdftex.def)             Requested size: 272.27623pt x 181.1322pt.
+ [24 <./vm.jpg> <./v1.jpg>]
+Chapter 4.
+[25
+
+]
+Chapter 5.
+[26
+
+]
+Chapter 6.
+[27
+
+] (C:\Users\bhavi\Desktop\LETEX\build\report.aux) ) 
+Here is how much of TeX's memory you used:
+ 2402 strings out of 493323
+ 31990 string characters out of 3139066
+ 92190 words of memory out of 3000000
+ 5872 multiletter control sequences out of 15000+200000
+ 32510 words of font info for 74 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,8n,25p,826b,243s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9
+/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/tx
+fonts/rtxb.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/rtxi.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/rtxr.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/txfonts/txsy.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
+/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pf
+b>
+Output written on C:\Users\bhavi\Desktop\LETEX\build\report.pdf (31 pages, 8899
+227 bytes).
+PDF statistics:
+ 147 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+

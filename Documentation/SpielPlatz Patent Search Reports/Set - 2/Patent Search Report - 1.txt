@@ -1,0 +1,76 @@
+###################################################################################################################################################################
+
+	Document : Patent Search Report - 1 (PSR)
+	Author 	 : Er. Bhavika Patel
+	Date 	 : Aug 2017
+
+################################################################################################################################################################### 
+
+Part - I : PATENT SEARCH TECHNIQUE USED
+
+ 	1. Patent Search Database Used 	: google patents	
+					  Website link 	: www.google.co.in/patent	
+					
+ 	2. Keywords Used for Search 	: Authentication
+	
+ 	3. Search String Used 	: Authentication in cloud
+	
+ 	4. Number of Results/Hits getting : 89,600
+	
+PART 2: BASIC DATA OF PATENTED INVENTION /BIBLIOGRAPHIC DATA
+
+	5. Category/ Field of Invention : Cloud computing
+	
+	6. Invention is Related to/Class of Invention :	713/155
+				  IPC class of the studied patent : H04L29/06
+	
+	7. Title of Invention : Secure password-based authentication for cloud computing services
+	
+	8. Patent No. :US 8959335 B2
+	
+	9. Application Number : US 13/448,928
+		
+	10. Date of Filing/Application (DD/MM/YYYY) : 	17 Apr 2012
+	
+	11. Priority Date (DD/MM/YYYY) : 	17 Apr 2012
+	
+	12. Publication/Journal Number : US8959335 B2
+	
+	13. Publication Date (DD/MM/YYYY) : 17 Feb 2015
+	
+	14. First Filled Country : 
+
+	15. Also Published as
+							Sr.No  : Country Where Filled  : Application No./Patent No.
+	                                	EP2839401A1 texas
+	                                	US20130275748 usa
+	                                	WO2013156531A1  World Intellectual Property Organization
+	16. Inventor/s Details.
+							Sr.No  : Name of Inventor  : Address/City/Country of Inventor
+							           	HongQian Karen Lu
+	17. Applicant/Assignee Details.
+							Sr.No  : Name of Applicant/Assignee : Address/City/Country of Applicant
+							        Gemalto Sa
+	18. Applicant for Patent is : 	Grant
+	
+PART 3: TECHNICAL PART OF PATENTED INVENTION
+	
+	19. Limitation of Prior Technology / Art : Authentication is not secure in cloud.
+
+	20. Specific Problem Solved / Objective of Invention : Secure password-based authentication for cloud service computing. A request for cloud computing resource access includes a derivative password that contains a parameter that the recipient may extract in order to independently calculate the derivative password based on the parameter and a stored password which may then be verified against a known-to-be-correct password. 
+	
+	21. Brief about Invention : Cloud computing is becoming an increasingly popular mode for computerized access to both data and application programs. By using cloud computing, users may provide a centralized depository for shared data, a secure backup and file storage, use of applications programs that can run on relatively higher-speed cloud servers, etc. By using cloud computing services, users may increase the level of integrity of their data in that a third party with a dedicated focus on data processing is in charge of maintaining the security and integrity of data. Cloud computing users may feel relatively certain that their data is backed up and their security maintained by the cloud service provider (CSP).Another advantage for users of cloud-computing services is the access to powerful application programs that may be prohibitively or unnecessarily expensive for a user to acquire and maintain. A cloud-service provider may provide access to certain application programs either for a small fee or on some other revenue model that is advantageous to their users as compared to the users having the same or equivalent programs running locally on user machines.One crucial aspect for the cloud computing model to work is that the data managed by the CSPs on behalf of their users must be secure and that only authorized individuals and entities may access application programs hosted in the cloud. Traditionally such user validation is performed using the username-password model. The username-passwords are transmitted to the API of the CSP by a client program executing on a client computer. Often the username-passwords are embedded in requests made to the CSP by the client program.
+	
+	22. Key learning Points : authentication on cloud methodology
+	
+	23. Summary of Invention :a particular feature, structure, or characteristic described herein in connection with one embodiment may be implemented within other embodiments without departing from the spirit and scope of the invention. In addition, it is to be understood that the location or arrangement of individual elements within each disclosed embodiment may be modified without departing from the spirit and scope of the invention. The following detailed description is, therefore, not to be taken in a limiting sense, and the scope of the present invention is defined only by the appended claims, appropriately interpreted, along with the full range of equivalents to which the claims are entitled. In the drawings, like numerals refer to the same or similar functionality throughout the several views.A technology is presented herein in which a mechanism is provided that enhances password-security in cloud application interfaces without burdening cloud-computing service providers with a requirement for extensive security modifications to cloud-computing infrastructure.
+	
+	24. Number of Claims : 27
+	
+	25. Patent Status : Grant
+	
+	26. How much this invention is related with your IDP/UDP? 80%
+	
+	27. Do you have any idea to do anything around the said invention to improve it? (Give short note in not more than 500 words) 
+	No Suggestions
+	
